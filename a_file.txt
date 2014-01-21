@@ -1,0 +1,7 @@
+This is a file.
+
+Which I will be changing later to see if that works.
+
+This is basically a test for git patch mode.
+
+Woho1 I dont know what else to write!
